@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+
+# misc
+.DS_Store
+*.pem
+.npmrc
+private/
+
+# debug
+.pnpm-debug.log*
+
+# i/o files
+whois-lookup/input/*
+whois-lookup/output/*
